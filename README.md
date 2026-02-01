@@ -8,7 +8,7 @@ Data/Full stack developer based in Melbourne, Australia.
 
 ### Introduction
 
-I have been coding for 10+ years and professionally coding for 4 years. Back end + data developer with a heavy focus on SQL and database developement and administration, though I can also handle front end development.
+I have been coding for 10+ years and coding professionally for 4 years. Back end + data developer with a heavy focus on SQL and database developement and administration, though I can also handle front end development.
 
 - **Data Developer** - [AroFlo Innovations Pty Ltd](https://aroflo.com) (2022-Present)
 - **Masters in Science (Computer Science)** - The University of Melbourne (2019-2021)
