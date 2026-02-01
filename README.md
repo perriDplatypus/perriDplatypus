@@ -1,17 +1,37 @@
-## perriDplatypus
+# Abhay [perriDplatypus]
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+Data/Full stack developer based in Melbourne, Australia.
 
 ![hippo](https://media1.tenor.com/m/Tsob5aHiS3UAAAAC/hello-there.gif)
 
-I am Abhay. I am a programmer from Melbourne, Australia.
+### Introduction
 
-### What I do:
-I am a software developer with a special focus on SQL Server Databases Development and Administration. I have 3 years of experience in the industry and have been programming since 2011.
+I have been coding for 10+ years and professionally coding for 4 years. Back end + data developer with a heavy focus on SQL and database developement and administration, though I can also handle front end development.
 
-### What else do I do:
-Honestly I don't know. I play video games, play guitar, and go on long walks.
+- **Data Developer** - [AroFlo Innovations Pty Ltd](https://aroflo.com) (2022-Present)
+- **Masters in Science (Computer Science)** - The University of Melbourne (2019-2021)
 
-### Why I do it:
-Because coding is fun and creating stuff is fun. I also love trying to get under the hood with stuff that interests me. I love low level code and mainly like focusing on back end development but I do delve into front end development time to time.
+### Things I have done
 
-### Contributions
-I would love to contribute to a project. I have contributed to a few open source projects but I am keen to work on more. You can reach me on abhaytyagi2513@gmail.com.
+- Led multiple projects end to end relating to signups, billing and upgrades.
+- Spun up production servers for database mirroring testing.
+- Wrote and enhanced multiple REST APIs.
+- Improved business processes, automated site upgrades, and SalesForce integrations.
+- Fixed a lot of bugs and implemented a lot of enhancements, both client side and server side.
+
+### Things I do outside work
+
+- System configurations, distro hopping, some independent projects.
+- Walk a lot.
+- D&D.
+
+### Contact
+
+- **Email:** abhaytyagi2513@gmail.com
+- **LinkdIn:** www.linkedin.com/in/abhaytyagi
+
+<small>
+Badges from <a href="https://github.com/Ileriayo/markdown-badges">https://github.com/Ileriayo/markdown-badges</a>.
+</small>
