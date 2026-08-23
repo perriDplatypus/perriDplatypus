@@ -8,9 +8,9 @@ Data/Full stack developer based in Melbourne, Australia.
 
 ### Introduction
 
-I have been coding for 10+ years and coding professionally for 4 years. Back end + data developer with a heavy focus on SQL and database developement and administration, though I can also handle front end development.
+I have been coding for 10+ years and coding professionally for 4 years. Back end + data developer with a heavy focus on SQL and database development and administration, though I can also handle front end development.
 
-- **Data Developer** - [AroFlo Innovations Pty Ltd](https://aroflo.com) (2022-Present)
+- **Senior Software Engineer** - [AroFlo Innovations Pty Ltd](https://aroflo.com) (2022-Present)
 - **Masters in Science (Computer Science)** - The University of Melbourne (2019-2021)
 
 ### Things I have done
@@ -18,7 +18,7 @@ I have been coding for 10+ years and coding professionally for 4 years. Back end
 - Led multiple projects end to end relating to signups, billing and upgrades.
 - Spun up production servers for database mirroring testing.
 - Wrote and enhanced multiple REST APIs.
-- Improved business processes, automated site upgrades, and SalesForce integrations.
+- Improved business processes, automated site upgrades, and Salesforce integrations.
 - Fixed a lot of bugs and implemented a lot of enhancements, both client side and server side.
 
 ### Things I do outside work
@@ -30,7 +30,7 @@ I have been coding for 10+ years and coding professionally for 4 years. Back end
 ### Contact
 
 - **Email:** abhaytyagi2513@gmail.com
-- **LinkdIn:** www.linkedin.com/in/abhaytyagi
+- **LinkedIn:** www.linkedin.com/in/abhaytyagi
 
 <small>
 Badges from <a href="https://github.com/Ileriayo/markdown-badges">https://github.com/Ileriayo/markdown-badges</a>.
